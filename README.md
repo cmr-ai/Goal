@@ -1,7 +1,7 @@
 # Goal
 Project goal
 
-Building AI ecosystem. 
+Building the AI ecosystem for CAMEROON. 
 
 We connect students, teachers, researchers, entrepreneurs, investors and other key stakeholders. 
 Their active collaboration, support of world class fundamental and applied research will allow for new and enhanced products and services in the area of artificial intelligence.
